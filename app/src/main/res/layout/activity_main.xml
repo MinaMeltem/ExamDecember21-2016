@@ -7,7 +7,7 @@
     tools:context="com.example.c4q.exam12212016.MainActivity">
 
     <FrameLayout
-        android:id="@+id/rv_container"
+        android:id="@+id/fragment_container"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 

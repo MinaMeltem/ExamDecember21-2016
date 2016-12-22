@@ -30,4 +30,6 @@ public class DataAnimals {
     public void setAnimals(List<Animals> animals) {
         this.animals = animals;
     }
+
+
 }

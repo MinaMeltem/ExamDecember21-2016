@@ -6,11 +6,11 @@ import java.util.List;
  * Created by C4Q on 12/21/16.
  */
 
-public class DataAnimals {
+public class AnimalsResponse {
     private boolean success;
     private List<Animals> animals;
 
-    public DataAnimals(boolean success, List<Animals> animals) {
+    public AnimalsResponse(boolean success, List<Animals> animals) {
         this.success = success;
         this.animals = animals;
     }
